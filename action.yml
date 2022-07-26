@@ -1,0 +1,6 @@
+name: 'test create issues'
+description: 'test create issues'
+
+runs:
+  using: 'node16'
+  main: 'dist/index.js'
