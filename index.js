@@ -16,7 +16,7 @@ const octokit = github.getOctokit(token);
       owner: "XiuzhuMo",
       repo: "teach-create-issues-action",
       title: "Hahahaaa ",
-      body: "Bhhkk ",
+      body: "Bhhkk2 ",
     });
   } catch (error) {
     console.log("[ error ] >", error);
