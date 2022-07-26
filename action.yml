@@ -1,6 +1,9 @@
 name: 'test create issues'
 description: 'test create issues'
-
+inputs:
+  token:
+    description: 'github token',
+    require: true
 runs:
   using: 'node16'
   main: 'dist/index.js'
