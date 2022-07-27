@@ -1,5 +1,5 @@
 name: 'test create issues'
-description: 'test create issues'
+description: 'test create issues '
 inputs:
   token:
     description: 'github token'
