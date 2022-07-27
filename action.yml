@@ -2,7 +2,7 @@ name: 'test create issues'
 description: 'test create issues'
 inputs:
   token:
-    description: 'github token',
+    description: 'github token'
     required: true
 runs:
   using: 'node16'
