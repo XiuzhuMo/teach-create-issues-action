@@ -55,13 +55,13 @@ function getBody(){
   ]
   const len = mock.length
   return `**${mock[Math.floor(Math.random() * len)]}**
-    ## 评论格式 - 示例：
-    \`\`\`txt
-    小石头：https://leetcode-cn.com/u/xingorg1/
-    练习内容：队列实现
-    累计总数：100
-    今日增加：1
-    今日感悟：学到了队列的知识，掌握了循环队列的设计。
-    \`\`\`
-    `;
+  ## 评论格式 - 示例：
+  \`\`\`txt
+  小石头：https://leetcode-cn.com/u/xingorg1/
+  练习内容：队列实现
+  累计总数：100
+  今日增加：1
+  今日感悟：学到了队列的知识，掌握了循环队列的设计。
+  \`\`\`
+  `;
 }
