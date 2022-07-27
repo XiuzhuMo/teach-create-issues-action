@@ -3,7 +3,7 @@ description: 'test create issues'
 inputs:
   token:
     description: 'github token',
-    require: true
+    required: true
 runs:
   using: 'node16'
   main: 'dist/index.js'
