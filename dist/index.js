@@ -30,7 +30,7 @@ module.exports = function setBody() {
   return `**${mock[Math.floor(Math.random() * len)]}**
 ## 评论格式 - 示例：
 \`\`\`txt
-小石头：https://leetcode-cn.com/u/xingorg1/
+李清照：https://leetcode.cn/u/purr-d0/
 练习内容：队列实现
 累计总数：100
 今日增加：1
